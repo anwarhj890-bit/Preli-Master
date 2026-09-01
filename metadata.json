@@ -1,0 +1,6 @@
+{
+  "name": "PRELI MASTERMIND",
+  "description": "Complete BCS & Government Job Preparation Super App — Study Smart, Practice Hard, Crack Preli with AI Mentor, Exam Simulator, and Question Bank",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
